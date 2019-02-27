@@ -1,1 +1,1 @@
-### Hello, my name is Christian and this is a fake project.
+### Hello, my name is Mike and this is a fake project.
